@@ -1,0 +1,10 @@
+> gunzip ch39.gz
+> file ch39
+> tar -xvf ch39
+> file usb.image
+> sudo foremost -i usb.image -o recovered_files
+> sudo bash -c 'cd recovered_files && ls'
+> sudo -s
+> cd recovered_files
+> cd png
+> exiftool --common 00000168.png
