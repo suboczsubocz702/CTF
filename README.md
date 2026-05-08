@@ -1,9 +1,9 @@
 # Root-me
 
 ## Web - server
-[x] HTML - Code source
+- [x] HTML - Code source
 
 ## Forensics
-[x] Capture This
+- [x] Capture This
 
-[x] Deleted File
+- [x] Deleted File
